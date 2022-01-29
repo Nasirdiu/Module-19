@@ -16,3 +16,4 @@ switch(color){
                     default :
                     console.log('this is a black');
 }
+

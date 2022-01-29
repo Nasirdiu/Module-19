@@ -34,7 +34,7 @@ var num =[25,55,44,66,90,78,80,100,101,200];
 
 for(var i=0; i<num.length; i++){
     var nums=num[i];
-    console.log(nums);
+    console.log(nums);  
     if(nums>50){
         break;
         
